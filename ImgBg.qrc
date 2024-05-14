@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img">
+    <file>Images/sales-forecast.jpg</file>
+  </qresource>
+</RCC>
